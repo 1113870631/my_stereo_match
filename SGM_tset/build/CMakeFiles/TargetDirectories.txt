@@ -1,0 +1,3 @@
+/home/ww/opencv/test/SGM_tset/build/CMakeFiles/rebuild_cache.dir
+/home/ww/opencv/test/SGM_tset/build/CMakeFiles/1.dir
+/home/ww/opencv/test/SGM_tset/build/CMakeFiles/edit_cache.dir
